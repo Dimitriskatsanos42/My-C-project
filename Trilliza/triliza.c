@@ -335,7 +335,3 @@ int load(char board[3][3], int * round)
 
     return 1;
 }
-
-
-
-
